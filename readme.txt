@@ -1,1 +1,1 @@
-this is my ex 6
+this is my ex 6:pull request and collaborative review
